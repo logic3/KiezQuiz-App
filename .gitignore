@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Generated web copy (rebuilt from ../KiezQuiz via npm run sync:web)
+www/
+
+# iOS build artifacts (see also ios/.gitignore)
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/capacitor-cordova-ios-plugins/
+
+# macOS / Xcode user state
+.DS_Store
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
